@@ -1,12 +1,9 @@
 <p align="center">
 
-<img src="wri-logo-dark-compressed.png" alt="Workshop Riset Informatika" height="180" />
-
-</p>
-
-<p align="center">
-
-<img src="wri-logo-light-compressed.png" alt="Workshop Riset Informatika" height="180" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wrideveloper/.github/main/profile/wri-logo-dark-compressed.png">
+  <img alt="Workshop Riset Informatika" src="https://raw.githubusercontent.com/wrideveloper/.github/main/profile/wri-logo-light-compressed.png" height="180">
+</picture>
 
 </p>
 
