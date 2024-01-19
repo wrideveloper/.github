@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wrideveloper/.github/main/profile/wri-logo-dark-compressed.png">
-  <img alt="Workshop Riset Informatika" src="https://raw.githubusercontent.com/wrideveloper/.github/main/profile/wri-logo-light-compressed.png" height="180">
+  <img alt="Workshop Riset Informatika" src="https://raw.githubusercontent.com/wrideveloper/.github/main/profile/wri-logo-light-compressed.png" height="100">
 </picture>
 
 </p>
